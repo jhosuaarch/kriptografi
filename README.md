@@ -8,6 +8,8 @@
 - [x] Affine chiper
 - [x] Vigenere chiper
 
+<br>
+<br>
 <p>Mode tanpa penjelasan</p>
 
 ```python
