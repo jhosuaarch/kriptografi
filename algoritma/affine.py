@@ -29,7 +29,7 @@ class AffineChiper:
     def decrypt(self,chipertext: str):
         plaintext = ""
         explain = ""
-        explain = "\nPlaintext : {}\n".format(chipertext)
+        explain = "\nChipertext : {}\n".format(chipertext)
         for text in chipertext:
             index = get.index(text)
             prima = get.inverst(self.a)
