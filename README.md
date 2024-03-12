@@ -10,6 +10,7 @@
 
 <p>Mode tanpa penjelasan</p>
 
-```bash
+```python
 support = False
 ```
+<p>Ubah nilai support menjadi True jika ingin jawaban lengkap dengan penjelasan</p>
