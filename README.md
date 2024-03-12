@@ -9,7 +9,7 @@
 - [x] Vigenere chiper
 
 <p>Mode tanpa penjelasan</p>
-```python
+```bash
 support = False
 ```
 
