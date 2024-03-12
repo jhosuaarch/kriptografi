@@ -4,6 +4,6 @@
 
 **Algoritma**
 
-- [x] Caesar chiper
-- [x] Affine chiper
-- [x] Vigenere chiper
+[x] Caesar chiper
+[x] Affine chiper
+[x] Vigenere chiper
