@@ -16,3 +16,7 @@
 support = False
 ```
 <p>Ubah nilai support menjadi True jika ingin jawaban lengkap dengan penjelasan</p>
+
+```python
+support = True
+```
